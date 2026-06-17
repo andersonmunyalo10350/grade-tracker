@@ -8,7 +8,7 @@ def calculate_average(grade_list):
 # NEW FEATURE: Assign Letter Grade
 avg = calculate_average(grades)
 if avg >= 80:
-    letter = 'A'
+    letter = 'a'
 else:
     letter = 'B'
 
